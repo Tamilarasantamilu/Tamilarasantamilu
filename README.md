@@ -12,7 +12,7 @@
 
 - 💬 Ask me about anything, **I always loves to teach**
 
-- 📫 How to reach me **https://linktr.ee/tamiluu**
+- 📫 To reach me **https://linktr.ee/tamiluu**
 
 - ⚡ Fun fact **Afraid to code but loves to code too..!!**
 
