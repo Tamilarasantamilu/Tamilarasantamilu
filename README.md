@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently pursuing B.E at SNS Collage of Technology<br><br>🌱 I’m currently learning everything<br><br>🤝 I’m looking for work as a developer<br><br>💬 Ask me about anything, I always loves to teach<br><br>📫 To reach me https://linktr.ee/tamiluu<br><br>⚡ Fun fact Afraid to code but loves to code too..!!</p>
+<p align="left">-🔭 I’m currently pursuing B.E at SNS Collage of Technology<br><br>-🌱 I’m currently learning everything<br><br>-🤝 I’m looking for work as a developer<br><br>-💬 Ask me about anything, I always loves to teach<br><br>-📫 To reach me https://linktr.ee/tamiluu<br><br>-⚡ Fun fact Afraid to code but loves to code too..!!</p>
 
 ###
 
